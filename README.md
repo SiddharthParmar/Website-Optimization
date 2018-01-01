@@ -1,7 +1,5 @@
 # Siddharth Parmar Udacity Website-Optimization project:
 
-# OPTIMIZATIONS:
-
 # Steps taken in order to acheive pagespeed score of 90 and above:
 
 1. Inlined style.css into the index.html file.
