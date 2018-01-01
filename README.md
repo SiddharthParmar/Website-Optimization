@@ -1,5 +1,15 @@
 # Siddharth Parmar Udacity Website-Optimization project:
 
+# To Run the Application:
+
+1. Download and extract ngrok from https://ngrok.com/ to your project directory.
+2. cd to your project directory in the terminal
+3. Run the following command: npm install http-server -g to install a server
+4. Run http-server to start the server on localhost.
+5. Open another terminal and enter the bash command
+6. cd to your project directory and then run ./ngrok http 8080
+7. Copy the link provided on ngrok that ends with .io and open it in any browser.
+
 # Steps taken in order to acheive pagespeed score of 90 and above:
 
 1. Inlined style.css into the index.html file.
