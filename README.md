@@ -1,8 +1,8 @@
 # Siddharth Parmar Udacity Website-Optimization project:
 
-#OPTIMIZATIONS:
+# OPTIMIZATIONS:
 
-#Steps taken in order to acheive pagespeed score of 90 and above:
+# Steps taken in order to acheive pagespeed score of 90 and above:
 
 1. Inlined style.css into the index.html file.
 2. Delted the style.css file.
@@ -12,7 +12,7 @@
 6. Optimized images to lower their size using grunt and imagemin
 7. Minified the html.
 
-#Steps Taken in order
+# Steps Taken in order
 
 1. Moved the definition of scrollTop and items outside the for loop in updatePositions()
 2. Moved the declaration of variable elem outside the for loop in addEventListener()
